@@ -4,9 +4,10 @@ Void Linux is an amazing OS however the devs keep trying to inject politics into
 
 
 
-Instructions
--rename the folder to PolyMC (Case Sensitive)
--go into cloned void-packages/srcpkgs folder and delete current PolyMC folder, the current one just redirects to the protest piece known as PrismLauncher
-copy the cloned folder to void-packages/srcpkgs/
-./xbps-src pkg PolyMC
-xbps-install -vR hostdir/binpkgs PolyMC
+#Instructions
+
+    rename the folder to PolyMC (Case Sensitive)
+    go into cloned void-packages/srcpkgs folder and delete current PolyMC folder, the current one just redirects to the protest piece known as PrismLauncher
+    copy the cloned folder to void-packages/srcpkgs/
+    ./xbps-src pkg PolyMC
+    xbps-install -vR hostdir/binpkgs PolyMC
